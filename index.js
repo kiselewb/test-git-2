@@ -1,3 +1,8 @@
 console.log('Hello World')
 
-console.log('Two line')
+const age = 20
+if (age >= 18) {
+    console.log('Ok!')
+} else {
+    console.log('Not ok!')
+}
